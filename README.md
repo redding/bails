@@ -1,6 +1,6 @@
 # Bails
 
-TODO: Write a gem description
+Bail out of Rails conventions.
 
 ## Usage
 

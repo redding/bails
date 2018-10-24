@@ -6,11 +6,11 @@ require "bails/version"
 Gem::Specification.new do |gem|
   gem.name        = "bails"
   gem.version     = Bails::VERSION
-  gem.authors     = ["TODO: authors"]
-  gem.email       = ["TODO: emails"]
-  gem.summary     = "TODO: Write a gem summary"
-  gem.description = "TODO: Write a gem description"
-  gem.homepage    = "TODO: homepage"
+  gem.authors     = ["Kelly Redding", "Collin Redding"]
+  gem.email       = ["kelly@kellyredding.com", "collin.redding@me.com"]
+  gem.summary     = "Bail out of Rails conventions."
+  gem.description = "Bail out of Rails conventions."
+  gem.homepage    = "https://github.com/redding/bails"
   gem.license     = "MIT"
 
   gem.files         = `git ls-files | grep "^[^.]"`.split($/)
@@ -21,7 +21,5 @@ Gem::Specification.new do |gem|
   gem.required_ruby_version = '> 1.8'
 
   gem.add_development_dependency("assert", ["~> 2.17.0"])
-
-  # TODO: gem.add_dependency("gem-name", ["~> 0.0.0"])
 
 end
