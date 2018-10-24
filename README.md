@@ -6,6 +6,12 @@ Bail out of Rails conventions.
 
 TODO: Write code samples and usage instructions here
 
+### Router
+
+### Actions
+
+### Etc
+
 ## Installation
 
 Add this line to your application's Gemfile:
