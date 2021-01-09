@@ -1,3 +1,5 @@
+=== **This has been archived and is not maintained.** ===
+
 # Bails
 
 Bail out of Rails conventions.
